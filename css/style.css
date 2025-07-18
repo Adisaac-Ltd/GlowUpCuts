@@ -303,6 +303,11 @@ section img.divider {
   transition: 0.3s;
 }
 
+footer {
+    width: 100vh;
+    height: auto;
+}
+
 /* Media Queries */
 @media (max-width: 1100px) {
   #services {
